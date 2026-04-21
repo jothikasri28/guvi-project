@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+input {
+    padding: 10px;
+}
